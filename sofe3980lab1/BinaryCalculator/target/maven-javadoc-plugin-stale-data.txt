@@ -1,0 +1,60 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/inder/OneDrive/Desktop/sofe3980lab1/BinaryCalculator/target/classes;C:/Users/inder/OneDrive/Desktop/sofe3980lab1/BinaryCalculator/target/test-classes;C:/Users/inder/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/inder/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/inder/.m2/repository/joda-time/joda-time/2.9.2/joda-time-2.9.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/inder/OneDrive/Desktop/sofe3980lab1/BinaryCalculator/src/test/java;C:/Users/inder/OneDrive/Desktop/sofe3980lab1/BinaryCalculator/target/generated-test-sources/test-annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/inder/OneDrive/Desktop/sofe3980lab1/BinaryCalculator/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BinaryCalculator 1.0.0 Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/inder/OneDrive/Desktop/sofe3980lab1/BinaryCalculator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'BinaryCalculator 1.0.0 Test API'
+com.ontariotechu.sofe3980U
+'C:/Users/inder/OneDrive/Desktop/sofe3980lab1/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/AppTest.java'
+'C:/Users/inder/OneDrive/Desktop/sofe3980lab1/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/BinaryTest.java'
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\classes = 1706420810201
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\test-classes = 1706420810350
+C:\Users\inder\.m2\repository\junit\junit\4.11\junit-4.11.jar = 1706385223941
+C:\Users\inder\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1706385223978
+C:\Users\inder\.m2\repository\joda-time\joda-time\2.9.2\joda-time-2.9.2.jar = 1706387681398
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\src\test\java = 1706384089724
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\generated-test-sources\test-annotations = 1706420810273
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\allclasses-index.html = 1706420819638
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\allclasses.html = 1706420819660
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\allpackages-index.html = 1706420819641
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\constant-values.html = 1706420819477
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\deprecated-list.html = 1706420819648
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\element-list = 1706420819437
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\help-doc.html = 1706420819681
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\index-all.html = 1706420819627
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\index.html = 1706420819670
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\member-search-index.js = 1706420819619
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\member-search-index.zip = 1706420819624
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\overview-tree.html = 1706420819553
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\package-search-index.js = 1706420819607
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\package-search-index.zip = 1706420819612
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\script.js = 1706420819693
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\search.js = 1706420819695
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\stylesheet.css = 1706420819689
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\type-search-index.js = 1706420819617
+C:\Users\inder\OneDrive\Desktop\sofe3980lab1\BinaryCalculator\target\site\testapidocs\type-search-index.zip = 1706420819618
